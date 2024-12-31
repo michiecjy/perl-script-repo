@@ -5,7 +5,8 @@ use warnings;
 
 # Print a welcome message
 print "Welcome to Jenkins with Perl! (Unsured version)\n";
-print "Welcome to Jenkins with Perl! (Unsured version (hey version 1 here!) 2)\n";
+print "Welcome to Jenkins with Perl! (Unsured version 2)\n";
+
 
 # Check if arguments are passed
 if (@ARGV) {
